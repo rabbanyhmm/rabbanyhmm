@@ -14,8 +14,8 @@
   <a href="https://github.com/rabbanyhmm">
     <img src="https://img.shields.io/badge/GitHub-rabbanyhmm-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://myexistences.github.io">
-    <img src="https://img.shields.io/badge/Website-myexistences.github.io-20C20E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://rabbanyhmm.github.io">
+    <img src="https://img.shields.io/badge/Website-rabbanyhmm.github.io-20C20E?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ Modified Cheat Engine with Process ID randomisation — a staple tool for game r
 </td>
 <td width="50%">
 
-### 🌐 [myexistences.github.io](https://github.com/rabbanyhmm/myexistences.github.io)
+### 🌐 [rabbanyhmm.github.io](https://github.com/rabbanyhmm/rabbanyhmm.github.io)
 Personal portfolio and hub — built with HTML/CSS and deployed on GitHub Pages.
 
 `HTML` · `portfolio` · ⭐ 4
