@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Existence;I+build+tools,+bots,+and+software." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?rabbanyhmmfont=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Existence;I+build+tools,+bots,+and+software." alt="Typing SVG" />
 </h1>
 <p align="center">I'm a passionate developer who loves building things and constantly learning new technologies.</p>
    
@@ -19,29 +19,29 @@
 ## 📈 Profile Visitor Count
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@myexistences?theme=moebooru" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@rabbanyhmm?theme=moebooru" alt="Profile Views" />
 </p>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=myexistences&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=myexistences&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myexistences&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rabbanyhmm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rabbanyhmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanyhmm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=myexistences&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rabbanyhmm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=myexistences&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rabbanyhmm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/myexistences/myexistences/raw/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/myexistences/myexistences/raw/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/myexistences/myexistences/raw/refs/heads/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rabbanyhmm/rabbanyhmm/raw/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rabbanyhmm/rabbanyhmm/raw/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rabbanyhmm/rabbanyhmm/raw/refs/heads/output/github-snake.svg" />
 </picture>
