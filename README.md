@@ -1,1 +1,1 @@
-<img src="./profile.svg" width="100%" alt="Sakura Profile"/>
+<img src="./profile2.svg" width="100%" alt="Sakura Profile"/>
