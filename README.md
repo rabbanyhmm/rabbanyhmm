@@ -1,4 +1,4 @@
-<img src="./profile3.svg" width="100%" alt="Sakura Profile"/>
+<!--<img src="./profile3.svg" width="100%" alt="Sakura Profile"/>-->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Rabbany;Reverse+Engineer+%7C+Tool+Builder;Security+Researcher+%7C+Full-Stack+Dev;I+build+what+most+won't+attempt+%F0%9F%8C%B8" alt="Typing SVG" />
 </h1>
