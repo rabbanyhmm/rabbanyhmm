@@ -115,7 +115,7 @@ Generate, style, and burn subtitles into videos with fine-grained control over t
 </table>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -131,7 +131,7 @@ Generate, style, and burn subtitles into videos with fine-grained control over t
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rabbanyhmm&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
-
+-->
 ---
 
 ## 📈 Visitor Count
