@@ -139,9 +139,9 @@ Generate, style, and burn subtitles into videos with fine-grained control over t
 <p align="center">
   <img src="https://count.getloli.com/get/@rabbanyhmm?theme=moebooru" alt="Profile Views" />
   &nbsp;
-  <a href="https://visitcount.itsvg.in">
+  <!--<a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=rabbanyhmm&icon=0&color=0" />
-  </a>
+  </a> -->
 </p>
 
 ### ✍️ Random Dev Quote
