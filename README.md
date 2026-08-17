@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>17-year-old tool builder, reverse-engineer, and automation enthusiast from Ashuganj, Bangladesh.</b><br/>
+  <b>Tool builder, reverse-engineer, and automation enthusiast, broadcasting from somewhere beyond Earth. 🚀</b><br/>
   I work across the full stack — from low-level Windows internals and game memory to web apps, Discord bots, and AI tooling.
 </p>
 
