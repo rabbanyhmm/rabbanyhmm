@@ -17,6 +17,17 @@
 - 60+ repos across 9 languages — most private, all intentional.
 <img src="./assets/Evernight.gif" width="300" align="right" />
 <br/>
+
+<details>
+<summary>🎵 Play music</summary>
+
+
+
+<!--<video src="https://github.com/user-attachments/assets/df22daac-0457-4eca-ba89-2b4a16d5d43a" width="320" height="180" controls></video>-->
+
+<video src="https://github.com/user-attachments/assets/9f410ba5-4887-490f-a1f3-df4fafcf3e04" width="320" height="48" controls></video>
+
+</details>
 <br/>
 <img src="./assets/repositories.png" width="500" />
 <br/>
