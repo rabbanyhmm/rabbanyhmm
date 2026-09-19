@@ -15,7 +15,7 @@
 - Familiar with **Windows internals**, **IL2Cpp / dnSpy** and **Linux**.
 
 - 60+ repos across 9 languages — most private, all intentional.
-<img src="./assets/artwork.png" width="300" align="right" />
+<img src="./assets/Evernight.gif" width="300" align="right" />
 <br/>
 <br/>
 <img src="./assets/repositories.png" width="500" />
