@@ -41,7 +41,7 @@
   Clone servers, back up stickers and emojis, and validate tokens without admin.
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/252912912375480320)](https://discord.com/users/252912912375480320)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/252912912375480320)](https://discord.com/users/252912912375480320) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=rabbanyhmm&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
 
